@@ -83,11 +83,6 @@ E-commerce completo con carrito, stock dinámico, formateo de precios con `Intl.
 
 ¿Tenés un proyecto en mente o querés charlar sobre frontend? Escribime 👇
 
-- 💼 [LinkedIn](https://linkedin.com/in/jorgelopez96) ← *(actualizá con tu URL real)*
+- 💼 [LinkedIn](https://linkedin.com/in/jorgelopez96)
 - 🌐 [CuidaTuWallet](https://cuida-tu-wallet.vercel.app)
 
----
-
-<p align="center">
-  <sub>Hecho con React, café ☕ y muchos commits.</sub>
-</p>
